@@ -9,7 +9,7 @@ author_profile: true
 
 <ul>
 <li><strong>Email:</strong> jason@weybreads.com</li>
-<li><strong>Tel:</strong> +441379 608496</li>
+<li><strong>Tel:</strong> 01379 608496</li>
 <li><strong>DD:</strong> 07955 897838</li>
 </ul>
 
