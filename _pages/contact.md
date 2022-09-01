@@ -12,6 +12,6 @@ The main workload covers South Norfolk and North Suffolk, however there are no g
 <strong>Contact details</strong>
 <ul>
 <li><strong>Email:</strong> jason@weybreads.com</li>
-<li><strong>Tel:</strong> 01379 608496</li>
+<li><strong>Tel:</strong> 07359 069183</li>
 <li><strong>DD:</strong> 07955 897838</li>
 </ul>
