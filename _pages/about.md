@@ -14,5 +14,5 @@ In 2021 Jason designed a winch frame mechanism that was installed on the <em>Agu
 
 <strong>Downtime:</strong><br>
 i. Dadding 3 daughters<br>
-ii. Israeli Jiu Jitsu (see 'i')<br>
+ii. Jiu Jitsu (see 'i')<br>
 iii. All things Leeds United
