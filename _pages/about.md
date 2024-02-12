@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: "weybreads"
 author_profile: true
 redirect_from: 
   - /about/
