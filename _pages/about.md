@@ -12,6 +12,6 @@ Jason has worked both locally and nationally as a Structural Engineer since 2006
 In 2021 Jason designed a winch frame mechanism that was installed on the <em>Agulhas II</em> research vessel. This was used to launch the remote operated vehicle (ROV) that made the discovery of the ‘Endurance’ shipwreck (<a href="https://www.bbc.co.uk/news/science-environment-60662541">link</a>), the lost vessel of Antarctic explorer Sir Ernest Shackleton. 
 
 <strong>Downtime:</strong><br>
-i. Dadding 3 daughters<br>
-ii. Jiu Jitsu (see 'i')<br>
-iii. All things Leeds United
+i. Dadding 3 daughters.<br>
+ii. Jiu Jitsu (see 'i').<br>
+iii. All things Leeds United.
