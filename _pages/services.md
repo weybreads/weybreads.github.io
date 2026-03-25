@@ -28,7 +28,7 @@ Foundation designs for challenging ground conditions, including reinforced rafts
 Includes improvements to existing retaining structures (e.g. boundary walls experiencing rotation).
 
 <strong>Commercial/Industrial</strong><br>
-Steel portal frame structures, industrial/access platforms, staircases/ladders, support frames to plant (e.g. water treatment machinery), condition surveys and reports. Theatre support frames and lifts.
+Sludge tank scraper bridges, steel portal frame structures, industrial/access platforms, staircases/ladders, support frames to plant (e.g. water treatment machinery), condition surveys and reports. Theatre support frames and lifts.
 
 <strong>Offshore</strong><br>
 Steel support frames and skid launch systems on boats, crane and sling lifting sets, impact analysis, designs to Lloyds CLAME and DNV codes.
