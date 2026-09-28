@@ -1,29 +1,34 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+# This Gemfile is for LOCAL PREVIEW ONLY. weybreads.com is built by GitHub's
+# legacy Pages service, which uses its own server-side gem set and ignores this
+# file and Gemfile.lock entirely.
+#
+# We pin jekyll to 3.10.x to match the version GitHub Pages runs (the
+# github-pages gem pins jekyll = 3.10.0), so local preview stays faithful
+# without depending on the github-pages gem itself.
+#
+# Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
 #
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+gem "jekyll", "~> 3.10"
+gem "webrick", "~> 1.7"
 
-gem "github-pages", group: :jekyll_plugins
-
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
-
-# gem "jekyll"
+# kramdown 2.x moved the GFM parser into its own gem; _config.yml sets
+# kramdown.input: GFM.
+gem "kramdown-parser-gfm"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# If you have any plugins, put them here!
+# Plugins. Keep this list in sync with `plugins:` in _config.yml.
 group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
+  gem "jekyll-sitemap"
+  gem "jekyll-paginate"
+  gem "jekyll-gist"
+  gem "jekyll-redirect-from"
+  gem "jemoji"
+  gem "hawkins"
 end
-
-gem "webrick", "~> 1.7"
